@@ -52,7 +52,7 @@ En Enseñanza Virtual, dentro de la carpeta Proyecto -> Contenido específico de
 
 - Escoger un estudiante del grupo (será el GROUP CREATOR). Será el responsable de la creación del grupo. IMPORTANTE: SOLO UN ESTUDIANTE (GROUP CREATOR) CREA EL GRUPO. EL RESTO DE LOS MIEMBROS DEBE UNIRSE AL GRUPO CREADO.
 - El GROUP CREATOR hace click en el enlace del assignment y selecciona su nombre de la lista de estudiantes, entonces crea el grupo. El nombre del grupo debe ser el UVUS del GROUP CREATOR de manera que será único en el classroom y fácilmente identificable para el resto de los miembros del grupo (GROUP MEMBER).
-- Github classroom creará un repositorio con un nombre de formato similar a: ISSI1-TI-2024-2025-LX-XXX/proyecto-de-curso/uvus-group-creator. Después de la creación del repositorio, hay que refrescar la página para obtener la URL del repositorio de grupo.
+- Github classroom creará un repositorio con un nombre de formato similar a: ISSI1-IS-2025-LX-XXX/proyecto-de-curso/uvus-group-creator. Después de la creación del repositorio, hay que refrescar la página para obtener la URL del repositorio de grupo.
 - Cada GROUP MEMBER hace click en el assignment, selecciona su nombre y busca el grupo creado por su GROUP CREATOR y se une al mismo. Tras esta operación, cada miembro del grupo tendrá acceso al mismo repositorio y los permisos correspondientes.
 - Clona el repositorio en VSCode y sigue las instrucciones que se encuentran en el README.md para comenzar a trabajar en el proyecto. Recuerda que el repositorio contiene la norma y archivos que tendrá que rellenar para las entregas.
 
