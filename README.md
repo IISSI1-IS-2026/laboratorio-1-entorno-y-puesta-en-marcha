@@ -46,15 +46,11 @@ En esta asignatura utilizaremos HeidiSQL. Puede descargarlo aquí: https://www.h
 - Descargue el archivo nation.sql de este repositorio (o, alternativamente, descargue y descromprima el siguiente archivo: https://www.mariadbtutorial.com/wp-content/uploads/2019/10/nation.zip). Abra el archivo nation.sql con VSCode o con el editor de texto, y verá que dentro se encuentran numerosas instrucciones SQL, encargadas de crear una base de datos, una serie de tablas e introducir datos de prueba (puede ver de qué se trata aquí: https://www.mariadbtutorial.com/getting-started/mariadb-sample-database/). Para cargar este archivo en HeidiSQL (que enviará el SQL a MariaDB Server), pulse sobre Archivo -> Ejecutar Archivo SQL, selecciónelo y ejecútelo. Cuando termine, actualice (con la BBDD nation marcada, pulse sobre el 7º icono del menú superior, que es un icono de recarga en verde) y vea los cambios producidos. Explore HeidiSQL para familiarizarse con el entorno y explore la pestaña de Datos.
     
 
-## Puesta en marcha del repositorio del proyecto de grupo
+## Puesta en marcha del grupo
 
-En Enseñanza Virtual, dentro de la carpeta Proyecto -> Contenido específico de grupos -> LX-XXX (el grupo de laboratorio donde se haya inscrito), encontrará un enlace para aceptar la tarea (assignment) donde se realizarán las entregas del proyecto de curso. Por favor, siga los siguientes pasos:
+Para crear el repositorio del grupo, añadir a los compañeros como colaboradores y completar el formulario de registro, sigue las instrucciones de este documento:
 
-- Escoger un estudiante del grupo (será el GROUP CREATOR). Será el responsable de la creación del grupo. IMPORTANTE: SOLO UN ESTUDIANTE (GROUP CREATOR) CREA EL GRUPO. EL RESTO DE LOS MIEMBROS DEBE UNIRSE AL GRUPO CREADO.
-- El GROUP CREATOR hace click en el enlace del assignment y selecciona su nombre de la lista de estudiantes, entonces crea el grupo. El nombre del grupo debe ser el UVUS del GROUP CREATOR de manera que será único en el classroom y fácilmente identificable para el resto de los miembros del grupo (GROUP MEMBER).
-- Github classroom creará un repositorio con un nombre de formato similar a: ISSI1-IS-2025-LX-XXX/proyecto-de-curso/uvus-group-creator. Después de la creación del repositorio, hay que refrescar la página para obtener la URL del repositorio de grupo.
-- Cada GROUP MEMBER hace click en el assignment, selecciona su nombre y busca el grupo creado por su GROUP CREATOR y se une al mismo. Tras esta operación, cada miembro del grupo tendrá acceso al mismo repositorio y los permisos correspondientes.
-- Clona el repositorio en VSCode y sigue las instrucciones que se encuentran en el README.md para comenzar a trabajar en el proyecto. Recuerda que el repositorio contiene la norma y archivos que tendrá que rellenar para las entregas.
+👉 [Instrucciones para clonar el repositorio y configurar el grupo](https://github.com/IISSI1-IS-2026/plantilla-proyecto-curso/blob/main/INSTRUCCIONES_CLONAR_REPOSITORIO.md)
 
 **IMPORTANTE**: Ante cualquier problema, ponte en contacto con tu profesor de laboratorio.
 
