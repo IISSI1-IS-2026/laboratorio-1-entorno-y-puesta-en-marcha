@@ -35,6 +35,8 @@ Debido a la dificultad que presenta para la mayoría de usuarios interacturar co
 
 En esta asignatura utilizaremos HeidiSQL. Puede descargarlo aquí: https://www.heidisql.com/download.php. Puede encontrar una ayuda aquí: https://www.heidisql.com/help.php.
 
+📌 **Nota:** En entornos UNIX, el IDE recomendado es DBeaver Community https://dbeaver.io. Su uso es muy similar al de HeidiSQL. Cuenta con instaladores tanto para Mac como para Windows, así como paquetes para las principales distribuciones Linux. Para documentación e instrucciones de instalación, visitar https://github.com/dbeaver/dbeaver/wiki
+
 ## Primeros pasos con HeidiSQL
 
 - Conecte con MariaDB Server utilizando el usuario root y la contraseña root especificado en la instalación de MariaDB Server. Si no se acuerda o la ha perdido, deberá desinstalar MariaDB Server y volver a instalarlo. Puede encontrar un paso a paso aquí: https://www.heidisql.com/help.php#connecting, pulse en +Nueva y deje los datos por defecto, solamente introduzca la contraseña de root especificada en la instalación.
